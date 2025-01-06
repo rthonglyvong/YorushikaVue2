@@ -16,7 +16,7 @@
       <!-- Dynamic Pages -->
       <div v-for="(page, index) in pages.slice(1, pages.length - 1)" :key="index" class="page" :data-type="page.type">
         <div :class="'page-content page-'+index">
-          <h1 :key="selectedLanguage">{{ index === 0 && customTitle ? "To " + customTitle : page.content.title }}</h1>
+          <h1 :key="selectedLanguage">{{ index === 0 && customTitle ? customTitle : page.content.title }}</h1>
           <p v-if="page.type === 'Text'" :key="selectedLanguage" v-html="convertNewlines(page.content.body)"></p>
           <!-- Change iframe to dynamic player initialization -->
           <div v-if="page.type === 'Video'" ref="videoPlayer" :id="'video-' + index + 1">
