@@ -40,6 +40,14 @@
         }
     },
     {
+        "type": "Image",
+        "bgm": "01.mp3",
+        "content": {
+            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "body": "image/01.jpg"
+        }
+    },
+    {
         "type": "Text",
         "bgm": "01.mp3",
         "content": {
@@ -112,6 +120,22 @@
         }
     },
     {
+        "type": "Image",
+        "bgm": "01.mp3",
+        "content": {
+            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "body": "image/02.jpg"
+        }
+    },
+    {
+        "type": "Image",
+        "bgm": "01.mp3",
+        "content": {
+            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "body": "image/03.jpg"
+        }
+    },
+    {
         "type": "Text",
         "bgm": "01.mp3",
         "content": {
@@ -136,11 +160,27 @@
         }
     },
     {
+        "type": "Image",
+        "bgm": "01.mp3",
+        "content": {
+            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "body": "image/11.jpg"
+        }
+    },
+    {
         "type": "Text",
         "bgm": "01.mp3",
         "content": {
             "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
             "body": "On my way Northeast, I had to stay in an out-of-the-way town, Jönköping, because of a problem with the train. It's a quiet lakeside town, south of the country's second largest lake. I watch the setting sun that, in the white night, never seems to fully disappear. I sit on the sandy beach, taking in the lake wind. \n\nThe famous poet, Matsuo Basho, once said: \"Haikus should be written by a three-year-old child\". That quote was written in one of his letters. While I was doing some research on Basho, I found a book written about Yosa no Buson. He was a haiku poet who wrote haikus that were influenced by Basho. He thought that Shoufu - that is to say, Basho's writing style - was the correct way to write. He admired him. \n\nSo much so that, one day, Buson reached the path that Basho himself was following."
+        }
+    },
+    {
+        "type": "Image",
+        "bgm": "01.mp3",
+        "content": {
+            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "body": "image/04.jpg"
         }
     },
     {
@@ -184,6 +224,22 @@
         }
     },
     {
+        "type": "Image",
+        "bgm": "05.mp3",
+        "content": {
+            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "body": "image/05.jpg"
+        }
+    },
+    {
+        "type": "Image",
+        "bgm": "05.mp3",
+        "content": {
+            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "body": "image/06.jpg"
+        }
+    },
+    {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
@@ -191,7 +247,15 @@
             "body": "I arrive in Stockholm.\nI have lunch at a cafe near Drottningholm Palace.\nThere’s no taste to anything.\n\nA single day is far too short, but just living is too long. The me back then lived feeling like she was always being rushed by something. With each fading day, I feel my irritation pile up. It's not because I need to accomplish something, it's just that I can feel the shell coming loose from my living self, bit by bit. The shell is made of possibilities and character qualities, all within the genus of Time. And beneath all of those countless layers, all the way deep inside, there's me, with nothing. \n\nLife surely has an expiration date. Those are the words that I let leak out to him, a long time ago."
         }
     },
-        {
+    {
+        "type": "Image",
+        "bgm": "05.mp3",
+        "content": {
+            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "body": "image/07.jpg"
+        }
+    },
+    {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
@@ -269,6 +333,22 @@
         "content": {
             "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
             "body": "There's no sign that it's going to rain. Since I have nothing else to do, I decide to take a walk around Gamla Stan. Though it's a small island, the streets are complicated and maze-like, overflowing with sightseers and tourists.\n\nI see a naked child running down a back alley. Seems like even heat like this can't beat out the most rambunctious kids. Somehow I managed to follow him. From time to time, the boy looks back at me, and waves his hand as if beckoning me. I realize that we're getting closer to Drottningholm Palace* the further we go. I push through a narrow alleyway and turn a corner. On the street-side, there's a small gate - the boy must have turned and entered it, heading off towards wherever the path leads. I can't read the characters engraved onto the entrance, but I pass through it anyway, following him, and the place I find myself in is reminiscent of a quaint little backyard.\n\nThere’s nobody else there with me. It's as if, all of a sudden, the boy had disappeared. Nestled next to the single tree standing in the site is a pedestal, iron and square-shaped. Affixed to the pedestal, there's a small bench. And there, sitting on top, as if it had led me there, a statue of a small boy.\n\nAs early afternoon starts to pass, I see the clouds in their carefree way begin to play, and I start to smell the faint scent of rain in the air.\n\n* Elma says Drottningholm Palace here, but she likely meant the Royal Palace in Gamla Stan"
+        }
+    },
+    {
+        "type": "Image",
+        "bgm": "05.mp3",
+        "content": {
+            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "body": "image/08.jpg"
+        }
+    },
+    {
+        "type": "Image",
+        "bgm": "05.mp3",
+        "content": {
+            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "body": "image/09.jpg"
         }
     },
     {
@@ -384,11 +464,27 @@
         }
     },
     {
+        "type": "Image",
+        "bgm": "05.mp3",
+        "content": {
+            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "body": "image/10.jpg"
+        }
+    },
+    {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
             "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
             "body": "Going North from Almedalen Park, you'll find a circular wall along the coastline. On one side of the wall, a natural park spreads out, surrounded in lush greenery. On the North side, there's a bench, meant to imitate the wall. Though it’s far away, I can see two towers built into the bench frame, huddled close together. There’s a small one and a large one. To tie the time between them together, a meandering path connects the two. Beyond the confines of the wall, the twilight spreads out across the sky. It’s a smoldering twilight, mixed with the colors of night. From far away, I can hear the sound of church bells signaling the time. "
+        }
+    },
+    {
+        "type": "Image",
+        "bgm": "05.mp3",
+        "content": {
+            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "body": "image/12.jpg"
         }
     },
     {
@@ -456,6 +552,14 @@
         }
     },
     {
+        "type": "Image",
+        "bgm": "10.mp3",
+        "content": {
+            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "body": "image/15.jpg"
+        }
+    },
+    {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
@@ -480,6 +584,14 @@
         }
     },
     {
+        "type": "Image",
+        "bgm": "10.mp3",
+        "content": {
+            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "body": "image/14.jpg"
+        }
+    },
+    {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
@@ -493,6 +605,14 @@
         "content": {
             "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
             "body": "The northernmost edge of Fårö Island. I can see strange rock formations. As far as the eye can see, there's a beach made of limestone. Everywhere you look, giant boulders a few meters high stand tall over the ground. Amy took a picture of a formation that stood out, even among all the rest. Away from the crowd, it stood - lonely - soaring above its surroundings."
+        }
+    },
+    {
+        "type": "Image",
+        "bgm": "10.mp3",
+        "content": {
+            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "body": "image/13.jpg"
         }
     },
     {
