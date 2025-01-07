@@ -140,7 +140,7 @@ export default {
         position: absolute;
         visibility: hidden;
         font-family: 'Waiting for the Sunrise', serif;
-        font-size: clamp(12px, 5vw, 17px);
+        font-size: clamp(12px, 5vw, 29px);
         line-height: 1.6;
         padding: clamp(1rem, 3vw, 2.5rem);
         width: ${this.pageFlip ? this.pageFlip.getSettings().width - 40 : 510}px;
@@ -164,7 +164,7 @@ export default {
           const titleDiv = document.createElement('h1');
           titleDiv.style.cssText = `
             font-family: 'Fredericka the Great', cursive;
-            font-size: clamp(15px, 5vw, 48px);
+            font-size: clamp(12px, 5vw, 29px);
             margin: 20px 0;
           `;
           titleDiv.textContent = page.content.title;
@@ -606,7 +606,7 @@ button {
   border: solid 1px hsl(35, 20%, 70%);
   overflow: hidden;
   font-family: 'Waiting for the Sunrise', serif;
-  font-size: clamp(12px, 5vw, 17px);
+  font-size: clamp(12px, 5vw, 29px);
   line-height: 1.6;
   text-align: center;
 }
