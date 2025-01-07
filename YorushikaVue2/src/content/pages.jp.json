@@ -3,7 +3,7 @@
         "type": "Cover",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
             "body": "by Yorushika"
         }
     },
@@ -11,7 +11,7 @@
         "type": "Image",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/01.png"
         }
     },
@@ -19,31 +19,46 @@
         "type": "Text",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": ""
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                ""
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "God lives within the work itself. That was his saying. God doesn't exist among us humans, God only exists on the inside of the works that humans create. There are many works in which God has resided, but God does not exist within a single person. That is how God exists in a place just out of reach ⁠— why we touch those works as if in reverence. \nI still remember it. Him, tracing the trail of rain dripping down the window with his fingertip, caressing a diary in his arm. He was always living inside of his memories.\n\nBut you know, Amy, I think the work you left behind is important. I don't think there's anything you should change about it. Just like in Ibuse Masuji’s story, just like a giant salamander traps a frog in a grotto all while stuck itself, your work blocks the entrance, keeping anything from leaking out. I don't think anyone should overlook the memories that relentlessly try to run away.\nAnd that’s not just me thinking about your work, either. It's about keeping you locked away, too. “God lives within the work itself.” I couldn't care less about that phrase, back then. \n\nBut even now, to me ⁠— you're the closest thing to God. "
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "God lives within the work itself. That was his saying. God doesn't exist among us humans, God only exists on the inside of the works that humans create. There are many works in which God has resided, but God does not exist within a single person. That is how God exists in a place just out of reach \u2060\u2014 why we touch those works as if in reverence.",
+                "I still remember it. Him, tracing the trail of rain dripping down the window with his fingertip, caressing a diary in his arm. He was always living inside of his memories.",
+                "",
+                "But you know, Amy, I think the work you left behind is important. I don't think there's anything you should change about it. Just like in Ibuse Masuji\u2019s story, just like a giant salamander traps a frog in a grotto all while stuck itself, your work blocks the entrance, keeping anything from leaking out. I don't think anyone should overlook the memories that relentlessly try to run away.",
+                "And that\u2019s not just me thinking about your work, either. It's about keeping you locked away, too. \u201cGod lives within the work itself.\u201d I couldn't care less about that phrase, back then.",
+                "",
+                "But even now, to me \u2060\u2014 you're the closest thing to God."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "On the train heading east from Copenhagen, the conductor asked me to show him my passport. When I took it out from my travel bag and reached up to show him, I realized that we were crossing the border. \n\n\nFrom the seats behind me, I could hear the sound of people speaking a foreign language I couldn't recognize. Outside of that car, filled with people of all different races and backgrounds, I could see glimpses of fresh leaves swaying in the sea breeze - appearing and disappearing from sight."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "On the train heading east from Copenhagen, the conductor asked me to show him my passport. When I took it out from my travel bag and reached up to show him, I realized that we were crossing the border.",
+                "",
+                "",
+                "From the seats behind me, I could hear the sound of people speaking a foreign language I couldn't recognize. Outside of that car, filled with people of all different races and backgrounds, I could see glimpses of fresh leaves swaying in the sea breeze - appearing and disappearing from sight."
+            ]
         }
     },
     {
         "type": "Image",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/01.jpg"
         }
     },
@@ -51,15 +66,17 @@
         "type": "Text",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Video",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
             "body": "https://www.youtube.com/watch?v=Tdw2e7pisXY"
         }
     },
@@ -67,39 +84,51 @@
         "type": "Text",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "From Malmö to Lund. The Nordic Spring is so much colder than I thought it would be. He wrote about a town full of students in his letters. \n\nDid he walk through this city? On the outskirts, I rent a single room at a hostel. Even now, I stand on the nearly-broken veranda, rereading those letters he wrote. At this point, it's almost a daily routine for me.\n\nI return to my room; write down everything that happened before now in my notebook. I'm scared. I know that the days I spent with him are going to start leaking from the box of my head, bit by bit. And I know that it'll only accelerate as the days pass me by. From my full-capacity brain, the leaking memories will make a small hole, and slip on through it. I have to keep a diary. Even if it's just the parts that can be written down."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "From Malm\u00f6 to Lund. The Nordic Spring is so much colder than I thought it would be. He wrote about a town full of students in his letters.",
+                "",
+                "Did he walk through this city? On the outskirts, I rent a single room at a hostel. Even now, I stand on the nearly-broken veranda, rereading those letters he wrote. At this point, it's almost a daily routine for me.",
+                "",
+                "I return to my room; write down everything that happened before now in my notebook. I'm scared. I know that the days I spent with him are going to start leaking from the box of my head, bit by bit. And I know that it'll only accelerate as the days pass me by. From my full-capacity brain, the leaking memories will make a small hole, and slip on through it. I have to keep a diary. Even if it's just the parts that can be written down."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I found the place where he took the photo quickly. Past the southern exit of the central station, outside of a private home near Lund University. I see the cathedral appear and disappear from sight between the roofs of old buildings."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I found the place where he took the photo quickly. Past the southern exit of the central station, outside of a private home near Lund University. I see the cathedral appear and disappear from sight between the roofs of old buildings."
+            ]
         }
     },
     {
         "type": "Text",
-        "bgm": "10.mp3",
+        "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Video",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
             "body": "https://www.youtube.com/watch?v=Tu2T88BWYB0"
         }
     },
@@ -107,23 +136,30 @@
         "type": "Text",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Lund Cathedral. Right in the heart of the city, built in the 12th century, romanesque. A high ceiling. An altarpiece of Christ. A stone platform set in the center. A pipe organ. A chandelier and candle lights hanging from the ceiling. Chairs lined up in rows. An underground hall. A statue of a legendary giant, clinging to the sides of a pillar. I gaze upon the astronomical clock that Amy wrote about in his letter. \nI imitate him, leaning on a wooden chair at the edge of a cathedral wall.\n\nThe days of songwriting continue onwards. Nowadays, I often think back to the time I met him. "
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Lund Cathedral. Right in the heart of the city, built in the 12th century, romanesque. A high ceiling. An altarpiece of Christ. A stone platform set in the center. A pipe organ. A chandelier and candle lights hanging from the ceiling. Chairs lined up in rows. An underground hall. A statue of a legendary giant, clinging to the sides of a pillar. I gaze upon the astronomical clock that Amy wrote about in his letter.",
+                "I imitate him, leaning on a wooden chair at the edge of a cathedral wall.",
+                "",
+                "The days of songwriting continue onwards. Nowadays, I often think back to the time I met him."
+            ]
         }
     },
     {
         "type": "Image",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/02.jpg"
         }
     },
@@ -131,7 +167,7 @@
         "type": "Image",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/03.jpg"
         }
     },
@@ -139,31 +175,47 @@
         "type": "Text",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "On the way to my grandmother's house, I had to stop for shelter from a sudden rain. That was where I saw him, writing something down eagerly. \n\nOn the wooden, round table in front of him, there was a small plate with a cappuccino cup ⁠— the steam dissipated. I could imagine that it had been there long enough to cool down completely. The cup was pushed aside to make room for a sheet of loose-leaf paper, which was held in place at its end with an eraser. \n\nHis eyes faced downwards the entire time. He kept his gaze fixed on the paper as he tapped on the table with the butt of his pencil. It was like, to him, the entire truth of the world was written on that single page. Then  - as if remembering  - he would run his pencil across the paper before he took a breath, and returned to glaring at the words before him. \n\nIn a seat a little ways away from him, I was bored - tracing the patterns of the wooden table with my finger. The rain was showing no signs of stopping, and the bag I had with me had nothing inside that I could use to kill the time. "
-        }
-    },
-    {
-        "type": "Text",
-        "bgm": "01.mp3",
-        "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I absentmindedly watched him as he kept on writing for a long period before finally putting his pencil down. Interested now, I watched him actively from my peripheral vision. He nonchalantly took the single page he had just finished, crumpled it up into a ball, and tossed it into the garbage can that was resting on the terrace. He reached his hand into the bag beside him to take out a leather notebook, a fountain pen, and an ink bottle before he returned to writing something down eagerly. This time though, he didn't stop — he didn't get stuck. He wrote smoothly. It appeared as though he was copying what he had just written onto another page — that’s the impression his movements gave me. \n\nAs one would expect though, even he couldn't keep his concentration forever. As he stared at the eaves of the building, he laid his upper body down over the top of the table and closed his eyes. And then, just like that, with a single twitch, he stopped moving.\n\nThe pitter-patter of the rain sounded from the roof, gently filling the terrace with white noise. From the brim of the garbage can, a single piece of paper fell - overflowing from the pile. It was lifted by the wind, rolled across the ground, and then - eventually - it reached the feet of me, who was sitting close by.\n\nHe was laid out on the table still - no signs of moving."
-        }
-    },
-    {
-        "type": "Text",
-        "bgm": "01.mp3",
-        "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I don't remember what I was thinking.\n\nBut at that moment, I reached my hand down quietly towards the floor, and lifted the paper to the table with my fingertips.\n\nInside, a single song was written. \n\nJammed within the borders of that A5, loose-leaf paper, the characters - silently standing in line - looked like they were scribbled. Above the words, there were simple symbols. Even I, ignorant as I was, could work out that it was music. \n\nScreech - the sound of a chair scraping against the floor brought me back to reality. I panicked, and hurriedly folded the paper into my lap before raising my head. He had woken up, and I searched for something to say to him. \n\nI felt the awful feeling of being a voyeur weighing down on me - I averted my eyes, and looked down.\n\nAll of the sudden, the rain sounded thinner, quieter than I remembered. The smell of early summer rose from the drenched floorboards.\n\nI met Amy on a cafe terrace, within the sound of dripping rain."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "On the way to my grandmother's house, I had to stop for shelter from a sudden rain. That was where I saw him, writing something down eagerly.",
+                "",
+                "On the wooden, round table in front of him, there was a small plate with a cappuccino cup \u2060\u2014 the steam dissipated. I could imagine that it had been there long enough to cool down completely. The cup was pushed aside to make room for a sheet of loose-leaf paper, which was held in place at its end with an eraser.",
+                "",
+                "His eyes faced downwards the entire time. He kept his gaze fixed on the paper as he tapped on the table with the butt of his pencil. It was like, to him, the entire truth of the world was written on that single page. Then  - as if remembering  - he would run his pencil across the paper before he took a breath, and returned to glaring at the words before him.",
+                "",
+                "In a seat a little ways away from him, I was bored - tracing the patterns of the wooden table with my finger. The rain was showing no signs of stopping, and the bag I had with me had nothing inside that I could use to kill the time.",
+                "",
+                "I absentmindedly watched him as he kept on writing for a long period before finally putting his pencil down. Interested now, I watched him actively from my peripheral vision. He nonchalantly took the single page he had just finished, crumpled it up into a ball, and tossed it into the garbage can that was resting on the terrace. He reached his hand into the bag beside him to take out a leather notebook, a fountain pen, and an ink bottle before he returned to writing something down eagerly. This time though, he didn't stop \u2014 he didn't get stuck. He wrote smoothly. It appeared as though he was copying what he had just written onto another page \u2014 that\u2019s the impression his movements gave me.",
+                "",
+                "As one would expect though, even he couldn't keep his concentration forever. As he stared at the eaves of the building, he laid his upper body down over the top of the table and closed his eyes. And then, just like that, with a single twitch, he stopped moving.",
+                "",
+                "The pitter-patter of the rain sounded from the roof, gently filling the terrace with white noise. From the brim of the garbage can, a single piece of paper fell - overflowing from the pile. It was lifted by the wind, rolled across the ground, and then - eventually - it reached the feet of me, who was sitting close by.",
+                "",
+                "He was laid out on the table still - no signs of moving.",
+                "",
+                "I don't remember what I was thinking.",
+                "",
+                "But at that moment, I reached my hand down quietly towards the floor, and lifted the paper to the table with my fingertips.",
+                "",
+                "Inside, a single song was written.",
+                "",
+                "Jammed within the borders of that A5, loose-leaf paper, the characters - silently standing in line - looked like they were scribbled. Above the words, there were simple symbols. Even I, ignorant as I was, could work out that it was music.",
+                "",
+                "Screech - the sound of a chair scraping against the floor brought me back to reality. I panicked, and hurriedly folded the paper into my lap before raising my head. He had woken up, and I searched for something to say to him.",
+                "",
+                "I felt the awful feeling of being a voyeur weighing down on me - I averted my eyes, and looked down.",
+                "",
+                "All of the sudden, the rain sounded thinner, quieter than I remembered. The smell of early summer rose from the drenched floorboards.",
+                "",
+                "I met Amy on a cafe terrace, within the sound of dripping rain."
+            ]
         }
     },
     {
         "type": "Image",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/11.jpg"
         }
     },
@@ -171,15 +223,21 @@
         "type": "Text",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "On my way Northeast, I had to stay in an out-of-the-way town, Jönköping, because of a problem with the train. It's a quiet lakeside town, south of the country's second largest lake. I watch the setting sun that, in the white night, never seems to fully disappear. I sit on the sandy beach, taking in the lake wind. \n\nThe famous poet, Matsuo Basho, once said: \"Haikus should be written by a three-year-old child\". That quote was written in one of his letters. While I was doing some research on Basho, I found a book written about Yosa no Buson. He was a haiku poet who wrote haikus that were influenced by Basho. He thought that Shoufu - that is to say, Basho's writing style - was the correct way to write. He admired him. \n\nSo much so that, one day, Buson reached the path that Basho himself was following."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "On my way Northeast, I had to stay in an out-of-the-way town, J\u00f6nk\u00f6ping, because of a problem with the train. It's a quiet lakeside town, south of the country's second largest lake. I watch the setting sun that, in the white night, never seems to fully disappear. I sit on the sandy beach, taking in the lake wind.",
+                "",
+                "The famous poet, Matsuo Basho, once said: \"Haikus should be written by a three-year-old child\". That quote was written in one of his letters. While I was doing some research on Basho, I found a book written about Yosa no Buson. He was a haiku poet who wrote haikus that were influenced by Basho. He thought that Shoufu - that is to say, Basho's writing style - was the correct way to write. He admired him.",
+                "",
+                "So much so that, one day, Buson reached the path that Basho himself was following."
+            ]
         }
     },
     {
         "type": "Image",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/04.jpg"
         }
     },
@@ -187,15 +245,17 @@
         "type": "Text",
         "bgm": "01.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Video",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
             "body": "https://www.youtube.com/watch?v=PWbRleMGagU"
         }
     },
@@ -203,31 +263,49 @@
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Amy liked the word \"pointless (muda)\". He liked writing it down too, to the point where it was abnormal. His room didn't really have enough in it. Dresser, couch, table - he didn't have any of that. There was just a small desk with a single chair in the middle of his room, an acoustic guitar leaning beside it. There was a blank space that existed in that room, a vacuum that one could say was \"pointless\" to his lifestyle. \n\nTo write a song, first he would write a draft on excess pieces of paper. Then, once he would get it all down on those A5 loose-leaf pages, he would copy it down into his notebook. That's what I saw that day at the cafe. His life certainly wasn't lavish - but he still needed money to buy ink and paper.\n\nIn addition, there were countless sticky notes affixed to his diary. Most of the pages had dates written on them and nothing else. There was always a spare diary ready in his room, and he enjoyed staring at the yet-unwritten, blank white pages. He liked to boast that they were receptacles for the imagination. From time to time, he liked to write his newest songs on the pages he had already opened in the past - it made him happy to fill in the blank spaces, bit by bit. "
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Amy liked the word \"pointless (muda)\". He liked writing it down too, to the point where it was abnormal. His room didn't really have enough in it. Dresser, couch, table - he didn't have any of that. There was just a small desk with a single chair in the middle of his room, an acoustic guitar leaning beside it. There was a blank space that existed in that room, a vacuum that one could say was \"pointless\" to his lifestyle.",
+                "",
+                "To write a song, first he would write a draft on excess pieces of paper. Then, once he would get it all down on those A5 loose-leaf pages, he would copy it down into his notebook. That's what I saw that day at the cafe. His life certainly wasn't lavish - but he still needed money to buy ink and paper.",
+                "",
+                "In addition, there were countless sticky notes affixed to his diary. Most of the pages had dates written on them and nothing else. There was always a spare diary ready in his room, and he enjoyed staring at the yet-unwritten, blank white pages. He liked to boast that they were receptacles for the imagination. From time to time, he liked to write his newest songs on the pages he had already opened in the past - it made him happy to fill in the blank spaces, bit by bit."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I arrive in Linköping. \n\nEven though I've made it to this town, I still don't get the feeling that he traveled in this country. No matter where I go, I can't find any traces that suggest he was here. Of course I can't though. I don’t even know how long it took before his box reached me.\n\nI visit Gamla Linköping, an open-air museum that preserves the lifestyle of a medieval town. Everywhere I look, there's exhibits scattered all around that reproduce the old ways of life. Beside the old houses, I sit on a bench at the outskirts of a forest, and continue songwriting. \n\nI imagine the melody that he would write, and write it out note by note. If he was the one writing, surely this is how he would phrase it. Within the gaps of the song, he'd put in scenery just like this; make the words as sharp as thorns, as if digging into himself; use minimal rhyming; mix past and real experiences; include his habit of saying, \"I don’t care (dou demo ii)\"; show a constant yearning for the summer, a reaching for an ideal; use \"boku\" as his first person pronoun. Surely, this is the song that he would write. Sitting here, looking back on that time.\n\nI understand that what I'm doing isn't really creating, of course. It's only an imitation."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I arrive in Link\u00f6ping.",
+                "",
+                "Even though I've made it to this town, I still don't get the feeling that he traveled in this country. No matter where I go, I can't find any traces that suggest he was here. Of course I can't though. I don\u2019t even know how long it took before his box reached me.",
+                "",
+                "I visit Gamla Link\u00f6ping, an open-air museum that preserves the lifestyle of a medieval town. Everywhere I look, there's exhibits scattered all around that reproduce the old ways of life. Beside the old houses, I sit on a bench at the outskirts of a forest, and continue songwriting.",
+                "",
+                "I imagine the melody that he would write, and write it out note by note. If he was the one writing, surely this is how he would phrase it. Within the gaps of the song, he'd put in scenery just like this; make the words as sharp as thorns, as if digging into himself; use minimal rhyming; mix past and real experiences; include his habit of saying, \"I don\u2019t care (dou demo ii)\"; show a constant yearning for the summer, a reaching for an ideal; use \"boku\" as his first person pronoun. Surely, this is the song that he would write. Sitting here, looking back on that time.",
+                "",
+                "I understand that what I'm doing isn't really creating, of course. It's only an imitation."
+            ]
         }
     },
     {
         "type": "Image",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/05.jpg"
         }
     },
@@ -235,7 +313,7 @@
         "type": "Image",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/06.jpg"
         }
     },
@@ -243,15 +321,23 @@
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I arrive in Stockholm.\nI have lunch at a cafe near Drottningholm Palace.\nThere’s no taste to anything.\n\nA single day is far too short, but just living is too long. The me back then lived feeling like she was always being rushed by something. With each fading day, I feel my irritation pile up. It's not because I need to accomplish something, it's just that I can feel the shell coming loose from my living self, bit by bit. The shell is made of possibilities and character qualities, all within the genus of Time. And beneath all of those countless layers, all the way deep inside, there's me, with nothing. \n\nLife surely has an expiration date. Those are the words that I let leak out to him, a long time ago."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I arrive in Stockholm.",
+                "I have lunch at a cafe near Drottningholm Palace.",
+                "There\u2019s no taste to anything.",
+                "",
+                "A single day is far too short, but just living is too long. The me back then lived feeling like she was always being rushed by something. With each fading day, I feel my irritation pile up. It's not because I need to accomplish something, it's just that I can feel the shell coming loose from my living self, bit by bit. The shell is made of possibilities and character qualities, all within the genus of Time. And beneath all of those countless layers, all the way deep inside, there's me, with nothing.",
+                "",
+                "Life surely has an expiration date. Those are the words that I let leak out to him, a long time ago."
+            ]
         }
     },
     {
         "type": "Image",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/07.jpg"
         }
     },
@@ -259,15 +345,17 @@
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Video",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
             "body": "https://www.youtube.com/watch?v=kun6uf7A0Ao"
         }
     },
@@ -275,71 +363,106 @@
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Rather than leaving my memories behind and disappearing, rather than leaving that town behind - if we were to run away together, Amy, I'd go anywhere with you.\nI'd throw everything away. Even if one day the end were to come, it would still be better than a reality where we have nothing. In some far off land, we'd forget everything - even music. Even if we were poor, we’d find jobs somehow. Even a run-down place would be fine - we'd find a life together, find our hearts again. If we were together, it would all be okay. \n\nReally it’s just that - with just that, I-"
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Rather than leaving my memories behind and disappearing, rather than leaving that town behind - if we were to run away together, Amy, I'd go anywhere with you.",
+                "I'd throw everything away. Even if one day the end were to come, it would still be better than a reality where we have nothing. In some far off land, we'd forget everything - even music. Even if we were poor, we\u2019d find jobs somehow. Even a run-down place would be fine - we'd find a life together, find our hearts again. If we were together, it would all be okay.",
+                "",
+                "Really it\u2019s just that - with just that, I-"
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Gamla Stan. The hustle-and-bustle falls over the cobblestone roads. Amy dated his song for the end of May, and made it clear that he was writing a song about Gamla Stan after the rain. In the end, he never wrote that song. Inside of the box, all the letters dated for June talk about other ones. \n\nI want to know the reason why."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Gamla Stan. The hustle-and-bustle falls over the cobblestone roads. Amy dated his song for the end of May, and made it clear that he was writing a song about Gamla Stan after the rain. In the end, he never wrote that song. Inside of the box, all the letters dated for June talk about other ones.",
+                "",
+                "I want to know the reason why."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Some time ago, he read one of my songs and told me that he finally remembered the words that he'd let slip away.\n\n\"You're making me jealous,\" he said. \n\nThinking that it was just a kind-hearted joke, I laughed. "
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Some time ago, he read one of my songs and told me that he finally remembered the words that he'd let slip away.",
+                "",
+                "\"You're making me jealous,\" he said.",
+                "",
+                "Thinking that it was just a kind-hearted joke, I laughed."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "It doesn't seem like it'll rain."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "It doesn't seem like it'll rain."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "It won't rain."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "It won't rain."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "On my way to that public facility building, I saw him enter a small hospital. It was such a sunny day, that day. \n\n **6/24 - Release of the A Hole Opened in my Heart"
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "On my way to that public facility building, I saw him enter a small hospital. It was such a sunny day, that day.",
+                "",
+                "**6/24 - Release of the A Hole Opened in my Heart"
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "There's no sign that it's going to rain. Since I have nothing else to do, I decide to take a walk around Gamla Stan. Though it's a small island, the streets are complicated and maze-like, overflowing with sightseers and tourists.\n\nI see a naked child running down a back alley. Seems like even heat like this can't beat out the most rambunctious kids. Somehow I managed to follow him. From time to time, the boy looks back at me, and waves his hand as if beckoning me. I realize that we're getting closer to Drottningholm Palace* the further we go. I push through a narrow alleyway and turn a corner. On the street-side, there's a small gate - the boy must have turned and entered it, heading off towards wherever the path leads. I can't read the characters engraved onto the entrance, but I pass through it anyway, following him, and the place I find myself in is reminiscent of a quaint little backyard.\n\nThere’s nobody else there with me. It's as if, all of a sudden, the boy had disappeared. Nestled next to the single tree standing in the site is a pedestal, iron and square-shaped. Affixed to the pedestal, there's a small bench. And there, sitting on top, as if it had led me there, a statue of a small boy.\n\nAs early afternoon starts to pass, I see the clouds in their carefree way begin to play, and I start to smell the faint scent of rain in the air.\n\n* Elma says Drottningholm Palace here, but she likely meant the Royal Palace in Gamla Stan"
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "There's no sign that it's going to rain. Since I have nothing else to do, I decide to take a walk around Gamla Stan. Though it's a small island, the streets are complicated and maze-like, overflowing with sightseers and tourists.",
+                "",
+                "I see a naked child running down a back alley. Seems like even heat like this can't beat out the most rambunctious kids. Somehow I managed to follow him. From time to time, the boy looks back at me, and waves his hand as if beckoning me. I realize that we're getting closer to Drottningholm Palace* the further we go. I push through a narrow alleyway and turn a corner. On the street-side, there's a small gate - the boy must have turned and entered it, heading off towards wherever the path leads. I can't read the characters engraved onto the entrance, but I pass through it anyway, following him, and the place I find myself in is reminiscent of a quaint little backyard.",
+                "",
+                "There\u2019s nobody else there with me. It's as if, all of a sudden, the boy had disappeared. Nestled next to the single tree standing in the site is a pedestal, iron and square-shaped. Affixed to the pedestal, there's a small bench. And there, sitting on top, as if it had led me there, a statue of a small boy.",
+                "",
+                "As early afternoon starts to pass, I see the clouds in their carefree way begin to play, and I start to smell the faint scent of rain in the air.",
+                "",
+                "* Elma says Drottningholm Palace here, but she likely meant the Royal Palace in Gamla Stan"
+            ]
         }
     },
     {
         "type": "Image",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/08.jpg"
         }
     },
@@ -347,7 +470,7 @@
         "type": "Image",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/09.jpg"
         }
     },
@@ -355,39 +478,55 @@
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Since I was always following close behind him, I thought that maybe he might have been fed up with me deep down. \n\nBut now, I don't understand any of it - not his feelings or what he was trying to convey. I don't understand anything."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Since I was always following close behind him, I thought that maybe he might have been fed up with me deep down.",
+                "",
+                "But now, I don't understand any of it - not his feelings or what he was trying to convey. I don't understand anything."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "A little ways away from the station, there's a hall open to the public with a small upright piano. Me and Amy, when it rained, would play there often. Needless to say, since it was already an unpopular place to begin with, it was quiet on rainy days - you could hear the keys when you pressed them down, and the sound of the pedal chafing when you stepped on it. The atmosphere of the deserted hall made it feel like we had rented it out. Carried within the reverb, the Liszt he played sounded like falling rain.\n\nTo people like him who were serious about music, I'm sure my piano playing came off as something close to child's play. But even still, whenever I played the keyboard, he seemed really happy. Once I started on the first note, Amy wouldn't open his mouth - he'd close his eyes lightly, and breathe in deeply as if he were swimming in the sea. No matter how many times I messed up or faltered, once I finished playing, he would always give me a small round of applause. It was always at that moment, and that moment only, that I would feel like I was playing in a real concert hall. \n\nThere were no words inside of him that could reject music. Even if the notes were clumsy and awkward - they were still notes, and he embraced that with a simple kind of honesty. When I started to feel like I had played something well, he would praise me as if he had seen it coming. It was as if he was living to embody his own love for music. \n\nAnd then, one day, he stopped playing piano."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "A little ways away from the station, there's a hall open to the public with a small upright piano. Me and Amy, when it rained, would play there often. Needless to say, since it was already an unpopular place to begin with, it was quiet on rainy days - you could hear the keys when you pressed them down, and the sound of the pedal chafing when you stepped on it. The atmosphere of the deserted hall made it feel like we had rented it out. Carried within the reverb, the Liszt he played sounded like falling rain.",
+                "",
+                "To people like him who were serious about music, I'm sure my piano playing came off as something close to child's play. But even still, whenever I played the keyboard, he seemed really happy. Once I started on the first note, Amy wouldn't open his mouth - he'd close his eyes lightly, and breathe in deeply as if he were swimming in the sea. No matter how many times I messed up or faltered, once I finished playing, he would always give me a small round of applause. It was always at that moment, and that moment only, that I would feel like I was playing in a real concert hall.",
+                "",
+                "There were no words inside of him that could reject music. Even if the notes were clumsy and awkward - they were still notes, and he embraced that with a simple kind of honesty. When I started to feel like I had played something well, he would praise me as if he had seen it coming. It was as if he was living to embody his own love for music.",
+                "",
+                "And then, one day, he stopped playing piano."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "The rain stopped."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "The rain stopped."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Video",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
             "body": "https://www.youtube.com/watch?v=YYtQ1iOeySw"
         }
     },
@@ -395,47 +534,61 @@
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I’m leaving town."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I\u2019m leaving town."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "On the ferry heading towards Gotland, I saw an elderly woman with a cane having trouble climbing up a steep incline. I couldn't overlook her, so I lent a hand. She told me, \"Tack,\" and went on saying something - smiling this big smile, laughing, not realizing that I couldn't speak the language all that well. While I was struggling to find the words for a reply, she took out a photo from her black pouch. \n\nIn the photo, I could see two older women and a man - all with their wrinkles just starting to come in - engaged in some friendly chit-chat. I couldn't tell, but the three words that the old woman strung together might have been their names. In the midst of wondering where those three might be and what they might be doing, I nodded. "
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "On the ferry heading towards Gotland, I saw an elderly woman with a cane having trouble climbing up a steep incline. I couldn't overlook her, so I lent a hand. She told me, \"Tack,\" and went on saying something - smiling this big smile, laughing, not realizing that I couldn't speak the language all that well. While I was struggling to find the words for a reply, she took out a photo from her black pouch.",
+                "",
+                "In the photo, I could see two older women and a man - all with their wrinkles just starting to come in - engaged in some friendly chit-chat. I couldn't tell, but the three words that the old woman strung together might have been their names. In the midst of wondering where those three might be and what they might be doing, I nodded."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Gotland, Visby.\n\nYou've heard it said before, but it really is a beautiful town. There are roses blooming on the streets, and wherever you look, there’s the sight of old ruins. Scattered throughout the town as well, there's statues of sheep carved from stone, honoring a history of farming. A circular wall outlines the town as if enclosing it, and the rolling green hills beyond connect the town, made up of roses and ruins, to the sea. "
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Gotland, Visby.",
+                "",
+                "You've heard it said before, but it really is a beautiful town. There are roses blooming on the streets, and wherever you look, there\u2019s the sight of old ruins. Scattered throughout the town as well, there's statues of sheep carved from stone, honoring a history of farming. A circular wall outlines the town as if enclosing it, and the rolling green hills beyond connect the town, made up of roses and ruins, to the sea."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Video",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
             "body": "https://www.youtube.com/watch?v=nKwSbbDxjfs"
         }
     },
@@ -443,31 +596,56 @@
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Even now, whenever I feel like I want to quit songwriting, I remember the words Amy gave to me: \n\n\"You can think of talent as something like a single piece of thread.\"\n\nHe would always try to encourage me when he said that, making sure to keep eye contact as he spoke.\n\n\"That thread is incredibly thin. If you blow on it, it wavers; it's so fragile that it always seems like it's about to break, unreliable and imperceptibly light. But, in our daily lives, it's always there, suspended in front of us.  \n\nAnd if by chance, you get the urge to reach out and touch it, it'll snap like it's abandoning you. There's a saying that hard work won't betray you. The truth is that talent will. It'll slip right through your fingers, just like that. \n\nBut you know, Elma, I don't believe in talent. Talent is a con artist. If you cling to it and rely on it, it's only a matter of time before you realize that it's something that only exists in fantasy. \n\nIt's a string that you'll only look up towards from the point of giving up, when you feel unsatisfied, when you feel like you're not meeting your own ideals. But in reality, there's so much that has worth beyond that. Beauty exists, even on a dirty canvas. In roadside flowers, in the curves that develop in a jumbled mess of disorder, in muddy water, in the broken lead of a pencil. If there's someone out there who gives those things value, then there's definitely beauty somewhere within them. In short, beauty is in the eye of the beholder. It doesn't matter what it is. The value of everything created by humans is equal. \n\nThe concept of talent - it doesn't exist, Elma.”\n\n\n<span style=\"text-align: right;\">I don't get it, Amy.</span>"
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Even now, whenever I feel like I want to quit songwriting, I remember the words Amy gave to me:",
+                "",
+                "\"You can think of talent as something like a single piece of thread.\"",
+                "",
+                "He would always try to encourage me when he said that, making sure to keep eye contact as he spoke.",
+                "",
+                "\"That thread is incredibly thin. If you blow on it, it wavers; it's so fragile that it always seems like it's about to break, unreliable and imperceptibly light. But, in our daily lives, it's always there, suspended in front of us.",
+                "",
+                "And if by chance, you get the urge to reach out and touch it, it'll snap like it's abandoning you. There's a saying that hard work won't betray you. The truth is that talent will. It'll slip right through your fingers, just like that.",
+                "",
+                "But you know, Elma, I don't believe in talent. Talent is a con artist. If you cling to it and rely on it, it's only a matter of time before you realize that it's something that only exists in fantasy.",
+                "",
+                "It's a string that you'll only look up towards from the point of giving up, when you feel unsatisfied, when you feel like you're not meeting your own ideals. But in reality, there's so much that has worth beyond that. Beauty exists, even on a dirty canvas. In roadside flowers, in the curves that develop in a jumbled mess of disorder, in muddy water, in the broken lead of a pencil. If there's someone out there who gives those things value, then there's definitely beauty somewhere within them. In short, beauty is in the eye of the beholder. It doesn't matter what it is. The value of everything created by humans is equal.",
+                "",
+                "The concept of talent - it doesn't exist, Elma.\u201d",
+                "",
+                "",
+                "<span style=\"text-align: right;\">I don't get it, Amy.</span>"
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I stroll a little ways away from town. Pass through the forest, and arrive at the edge of a cliff. I stand there, on the tip of that exposed rock surface. \n\nI see the town of Visby, far off in the distance. There's ships out there too - arrivals from some far off land - being sucked up into the waiting harbor."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I stroll a little ways away from town. Pass through the forest, and arrive at the edge of a cliff. I stand there, on the tip of that exposed rock surface.",
+                "",
+                "I see the town of Visby, far off in the distance. There's ships out there too - arrivals from some far off land - being sucked up into the waiting harbor."
+            ]
         }
     },
     {
         "type": "Image",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/10.jpg"
         }
     },
@@ -475,15 +653,17 @@
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Going North from Almedalen Park, you'll find a circular wall along the coastline. On one side of the wall, a natural park spreads out, surrounded in lush greenery. On the North side, there's a bench, meant to imitate the wall. Though it’s far away, I can see two towers built into the bench frame, huddled close together. There’s a small one and a large one. To tie the time between them together, a meandering path connects the two. Beyond the confines of the wall, the twilight spreads out across the sky. It’s a smoldering twilight, mixed with the colors of night. From far away, I can hear the sound of church bells signaling the time. "
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Going North from Almedalen Park, you'll find a circular wall along the coastline. On one side of the wall, a natural park spreads out, surrounded in lush greenery. On the North side, there's a bench, meant to imitate the wall. Though it\u2019s far away, I can see two towers built into the bench frame, huddled close together. There\u2019s a small one and a large one. To tie the time between them together, a meandering path connects the two. Beyond the confines of the wall, the twilight spreads out across the sky. It\u2019s a smoldering twilight, mixed with the colors of night. From far away, I can hear the sound of church bells signaling the time."
+            ]
         }
     },
     {
         "type": "Image",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/12.jpg"
         }
     },
@@ -491,39 +671,59 @@
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "When I went to the facility hall that day, he was playing the piano in an unusual way. He pressed the keys down with a touch that seemed trembling. I could hear the pedal when he pushed it. His fingers danced over the keys, interposed between the tiny rests. \n\nHe looked over, catching me watching him with curious eyes, and with a forced smile, he patted the seat beside him. The hall in the summer was humid with the air of a recent rain, and the sound of cicadas could be heard from behind the thick glass wall.  \n\n\"[I called you over] since you've gotten so good at this,\" He laughed. I denied what he was saying, putting my complaint into words.\n\nAs he sat me in front of the piano, he began, \"I've been thinking about this recently. Where do we find music?\" \n\nI tilted my head. He reached out his hand and tapped the keyboard with his index finger. \n\n\"Past modern and classical, past baroque and renaissance music - leaving it all behind. If you follow that framework, even if you’re left with vocals alone, you'll find hymns at the very bottom. It's the same for everyone, even for the most isolated groups of religious people. Before instruments were created, people made music with their voices.\"  \n\nWhile I listened, I chimed in to make sure he knew I was following. His eyes were the color of the deepest night - the color of a night almost ashen. "
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "When I went to the facility hall that day, he was playing the piano in an unusual way. He pressed the keys down with a touch that seemed trembling. I could hear the pedal when he pushed it. His fingers danced over the keys, interposed between the tiny rests.",
+                "",
+                "He looked over, catching me watching him with curious eyes, and with a forced smile, he patted the seat beside him. The hall in the summer was humid with the air of a recent rain, and the sound of cicadas could be heard from behind the thick glass wall.",
+                "",
+                "\"[I called you over] since you've gotten so good at this,\" He laughed. I denied what he was saying, putting my complaint into words.",
+                "",
+                "As he sat me in front of the piano, he began, \"I've been thinking about this recently. Where do we find music?\"",
+                "",
+                "I tilted my head. He reached out his hand and tapped the keyboard with his index finger.",
+                "",
+                "\"Past modern and classical, past baroque and renaissance music - leaving it all behind. If you follow that framework, even if you\u2019re left with vocals alone, you'll find hymns at the very bottom. It's the same for everyone, even for the most isolated groups of religious people. Before instruments were created, people made music with their voices.\"",
+                "",
+                "While I listened, I chimed in to make sure he knew I was following. His eyes were the color of the deepest night - the color of a night almost ashen.",
+                "",
+                "\"So what was before that? Even if it's a creature as simple as a plankton. I doubt they could sing, but they could still make sound. As long as we have sound, will it give the impression of music? If we can call percussion or the sound of applause \"music\", then would it be such a stretch to call the rhythm of a plankton swimming \u201cmusic\u201d, too?",
+                "",
+                "What about even further back than that? Back before the universe began, back when we had nothing.",
+                "",
+                "There was nothing at all. Complete silence.",
+                "",
+                "Could <em>that</em> be music?",
+                "",
+                "It <em>could</em>. Even in our music, rests are an important part. If you cut out everything of a song except that exact moment of a rest, it would still be music. There's a reason that people say, \"silence is an art.\u201d Leaving behind my own values, if someone were to say that true silence was music, I think I would be inclined to agree with them.",
+                "",
+                "A long time ago, I'm sure people spoke about a God of Art. About a God who determines the worth of any artistic work. I'm sure that God determines the worth of our music as well. I don't know whether that God is a woman or a man, but I know that, as a God, their judgment would be impartial. That God would assign value to all music in existence - whether that's the melody of a moving plankton or a work modeling complete silence.  I wonder what value our music would be given, in a case like that. If you were to define the whole of our lives as music, I have to wonder - what value would mine have?\"",
+                "",
+                "Not really understanding what he was saying, I kept staring at his face. He began to tap the edge of the piano gently. \"It's nothing,\" he said. He smiled when he said that, so I felt a little relieved.",
+                "",
+                "\"What are we playing today?\" I asked. He made a motion with his wrist as if ringing a bell, \"Franz Liszt. A technical piece based on Paganini's Theme.\"",
+                "",
+                "I placed my fingers on the black keys. He began to count with the pinky he had left sitting on the piano.",
+                "",
+                "At the end of the day, he disappeared from town."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "05.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "\"So what was before that? Even if it's a creature as simple as a plankton. I doubt they could sing, but they could still make sound. As long as we have sound, will it give the impression of music? If we can call percussion or the sound of applause \"music\", then would it be such a stretch to call the rhythm of a plankton swimming “music”, too?\n\nWhat about even further back than that? Back before the universe began, back when we had nothing. \n\nThere was nothing at all. Complete silence. \n\nCould <em>that</em> be music?\n\nIt <em>could</em>. Even in our music, rests are an important part. If you cut out everything of a song except that exact moment of a rest, it would still be music. There's a reason that people say, \"silence is an art.” Leaving behind my own values, if someone were to say that true silence was music, I think I would be inclined to agree with them.\n\nA long time ago, I'm sure people spoke about a God of Art. About a God who determines the worth of any artistic work. I'm sure that God determines the worth of our music as well. I don't know whether that God is a woman or a man, but I know that, as a God, their judgment would be impartial. That God would assign value to all music in existence - whether that's the melody of a moving plankton or a work modeling complete silence.  I wonder what value our music would be given, in a case like that. If you were to define the whole of our lives as music, I have to wonder - what value would mine have?\""
-        }
-    },
-    {
-        "type": "Text",
-        "bgm": "05.mp3",
-        "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Not really understanding what he was saying, I kept staring at his face. He began to tap the edge of the piano gently. \"It's nothing,\" he said. He smiled when he said that, so I felt a little relieved. \n\n\"What are we playing today?\" I asked. He made a motion with his wrist as if ringing a bell, \"Franz Liszt. A technical piece based on Paganini's Theme.\"\n\nI placed my fingers on the black keys. He began to count with the pinky he had left sitting on the piano.    \n\nAt the end of the day, he disappeared from town. "
-        }
-    },
-    {
-        "type": "Text",
-        "bgm": "05.mp3",
-        "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Video",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
             "body": "https://www.youtube.com/watch?v=DlyG6MAKUOA"
         }
     },
@@ -531,31 +731,39 @@
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Because I'm such a greedy person, I can't help but to want everything. Just like there's fame before fortune, I want my value estimated before my work is complete. I just can't seem to write for the sake of art the way that you did. I can't be an outsider artist in the way that Henry Darger was. There's just not enough. Nothing is enough, Amy. I want something that can fill in this blank, empty space inside of my chest. I want fame just so I can fill it in. I want to become something other than myself."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Because I'm such a greedy person, I can't help but to want everything. Just like there's fame before fortune, I want my value estimated before my work is complete. I just can't seem to write for the sake of art the way that you did. I can't be an outsider artist in the way that Henry Darger was. There's just not enough. Nothing is enough, Amy. I want something that can fill in this blank, empty space inside of my chest. I want fame just so I can fill it in. I want to become something other than myself."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "From the bench in front of the circular wall, I gaze at the sunset that never completely falls. The white nights continue onwards.\n\nTomorrow, I'll leave town."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "From the bench in front of the circular wall, I gaze at the sunset that never completely falls. The white nights continue onwards.",
+                "",
+                "Tomorrow, I'll leave town."
+            ]
         }
     },
     {
         "type": "Image",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/15.jpg"
         }
     },
@@ -563,31 +771,55 @@
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "On the way from Visby to Fårösund, outside of a church in a rural town surrounded by forest, I met the same old woman that I had met before. When she saw me, she looked surprised before her expression morphed into a smile. On the church grounds, there were objects lined up in rows, equally spaced. They were made up of various minerals, and it suddenly clicked for me that they were rows of tombstones.\n\nI immediately knew that I was standing in a cemetery. I saw that the woman had begun to walk using her cane, so I reached out to lend her a hand. On the left wall outside of the church, she stopped in front of a single grave. She kneeled, placed a candle and a bundle of flowers onto the ground, and then closed her eyes to pray.\n\nIt was a calm early afternoon. A breeze like rippling water blew through the grass. A bird landed on the branch of an oak tree and began to call. The woman lifted her head towards me. \n\n\"Man,\" she said, and smiled.\n\nI flashed back to the old gentleman in the photo she had shown me on the ferry. Even I could understand that she had used the word for \"husband\".  \n\nI can hear you talking about something. Everything past that day seems blurred. Everything sounds like it's distorted. It's like I've been left behind, all alone at the bottom of a lake.\n\nThe old woman takes a handkerchief out of her black pouch, and hands it to me without a word. I say nothing, and keep looking downwards."        
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "On the way from Visby to F\u00e5r\u00f6sund, outside of a church in a rural town surrounded by forest, I met the same old woman that I had met before. When she saw me, she looked surprised before her expression morphed into a smile. On the church grounds, there were objects lined up in rows, equally spaced. They were made up of various minerals, and it suddenly clicked for me that they were rows of tombstones.",
+                "",
+                "I immediately knew that I was standing in a cemetery. I saw that the woman had begun to walk using her cane, so I reached out to lend her a hand. On the left wall outside of the church, she stopped in front of a single grave. She kneeled, placed a candle and a bundle of flowers onto the ground, and then closed her eyes to pray.",
+                "",
+                "It was a calm early afternoon. A breeze like rippling water blew through the grass. A bird landed on the branch of an oak tree and began to call. The woman lifted her head towards me.",
+                "",
+                "\"Man,\" she said, and smiled.",
+                "",
+                "I flashed back to the old gentleman in the photo she had shown me on the ferry. Even I could understand that she had used the word for \"husband\".",
+                "",
+                "I can hear you talking about something. Everything past that day seems blurred. Everything sounds like it's distorted. It's like I've been left behind, all alone at the bottom of a lake.",
+                "",
+                "The old woman takes a handkerchief out of her black pouch, and hands it to me without a word. I say nothing, and keep looking downwards."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "My grandmother contacted me, so I made the decision to return home. According to her, the mountains near her house had changed color, and it was clear that fall was nearing its end. She told me that something strange had arrived at her house. I figured that I might as well poke by and see what it was. I had no real clue as to what it might be, but the package appeared to have come from some far off country, and I found myself strangely curious about it.\n\nOn my way to my grandmother's house, close to the train station, I passed by the spot where the terrace cafe had been. It was long gone. Something had replaced it, construction on the building well underway.\n\nWhen I arrived at her house, my grandmother welcomed me inside, and handed me a package wrapped in paper. It was in a sort-of angled rectangle shape. I took off the wrapping to find a strange, slightly dirty wooden box. I lifted the lid, and there I found His letters - the letters that Amy had left behind. I read through them.\n\nFrom that day forward, my eyes have always been seeing a dream."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "My grandmother contacted me, so I made the decision to return home. According to her, the mountains near her house had changed color, and it was clear that fall was nearing its end. She told me that something strange had arrived at her house. I figured that I might as well poke by and see what it was. I had no real clue as to what it might be, but the package appeared to have come from some far off country, and I found myself strangely curious about it.",
+                "",
+                "On my way to my grandmother's house, close to the train station, I passed by the spot where the terrace cafe had been. It was long gone. Something had replaced it, construction on the building well underway.",
+                "",
+                "When I arrived at her house, my grandmother welcomed me inside, and handed me a package wrapped in paper. It was in a sort-of angled rectangle shape. I took off the wrapping to find a strange, slightly dirty wooden box. I lifted the lid, and there I found His letters - the letters that Amy had left behind. I read through them.",
+                "",
+                "From that day forward, my eyes have always been seeing a dream."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "From the docks of Fårösund, I boarded a ship headed towards Fårö Island. Even now, a primitive type of sheep farming happens there. Everywhere I look, I can see windmills."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "From the docks of F\u00e5r\u00f6sund, I boarded a ship headed towards F\u00e5r\u00f6 Island. Even now, a primitive type of sheep farming happens there. Everywhere I look, I can see windmills."
+            ]
         }
     },
     {
         "type": "Image",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/14.jpg"
         }
     },
@@ -595,23 +827,31 @@
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Inside of the box, there were dozens of letters and songs, notes written onto blank sheet music, and pictures from a distant country. The handwriting was nostalgic and unmistakably his. I read the contents of his letters voraciously. He set out on a journey for a Nordic country. Over the course of a few months, he traveled south to the ancient city of Lund, to Linköping, took a trip to the capital Stockholm, stayed in the medieval city of Gamla Stan, went to Gotland and then to Fårö island. At the end, he returned to Stockholm to finish everything - that's what he said. \n\nI don't have the technique to describe the contents of his letters. I can't even seem to understand the true value of what he was trying to say, even after rereading the letters to the point of wearing the paper down. I don't understand anything.\n\nFor me, who was only ever following close behind him, I can't even think for myself anymore. Even now, I'm on this journey in order to imitate him. I'm writing songs in the same places that he did. Nothing has changed. Nothing comes to mind. "
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Inside of the box, there were dozens of letters and songs, notes written onto blank sheet music, and pictures from a distant country. The handwriting was nostalgic and unmistakably his. I read the contents of his letters voraciously. He set out on a journey for a Nordic country. Over the course of a few months, he traveled south to the ancient city of Lund, to Link\u00f6ping, took a trip to the capital Stockholm, stayed in the medieval city of Gamla Stan, went to Gotland and then to F\u00e5r\u00f6 island. At the end, he returned to Stockholm to finish everything - that's what he said.",
+                "",
+                "I don't have the technique to describe the contents of his letters. I can't even seem to understand the true value of what he was trying to say, even after rereading the letters to the point of wearing the paper down. I don't understand anything.",
+                "",
+                "For me, who was only ever following close behind him, I can't even think for myself anymore. Even now, I'm on this journey in order to imitate him. I'm writing songs in the same places that he did. Nothing has changed. Nothing comes to mind."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "The northernmost edge of Fårö Island. I can see strange rock formations. As far as the eye can see, there's a beach made of limestone. Everywhere you look, giant boulders a few meters high stand tall over the ground. Amy took a picture of a formation that stood out, even among all the rest. Away from the crowd, it stood - lonely - soaring above its surroundings."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "The northernmost edge of F\u00e5r\u00f6 Island. I can see strange rock formations. As far as the eye can see, there's a beach made of limestone. Everywhere you look, giant boulders a few meters high stand tall over the ground. Amy took a picture of a formation that stood out, even among all the rest. Away from the crowd, it stood - lonely - soaring above its surroundings."
+            ]
         }
     },
     {
         "type": "Image",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "",
             "body": "image/13.jpg"
         }
     },
@@ -619,15 +859,17 @@
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Video",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
             "body": "https://www.youtube.com/watch?v=RaPC3n3DOrQ"
         }
     },
@@ -635,151 +877,281 @@
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I had a dream. \n\nOn an unpaved country road, He walked alone. Beyond the winding, endless, directionless path, I could see that forest church. I walked, chasing close behind him. After what seemed like forever, we finally reached the church gate. On the left side, a crepe myrtle stood in bloom. The red flowers fell and scattered like tiny bombs. He approached the front door and entered. I quickly followed after him.\n\nI found myself on a beach, disoriented and eyes bleary. I had the feeling that I was thinking about something important. On the surface of the sea, illuminated by the moonlight, red crape myrtle flowers floated gently on the water. \n\nThat's right, I remembered, I'm supposed to make a doll. It should be a reasonable size, and made of a material becoming of its build.\n\nI need to make a work with the right shape.\n\nPacking the wet sand together, I began to create a human figure, sculpting it with my two own hands. I hardened the body. I molded the arms. I attached the legs.\n\nBut if the sand lacks durability, it will collapse from the place where it was made. No matter how fast I feel I need to make it. The irritation made me clench the sand in my fingers tightly. I'm always making a doll with his face.\n\nAlways, always.\n\nIt was with that thought that from somewhere deep in my mind, I realized suddenly that I was dreaming. At that moment, I knew what would happen next.\n\nWhen I raised my face, I found myself in a cafe terrace, within the sound of dripping rain."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I had a dream.",
+                "",
+                "On an unpaved country road, He walked alone. Beyond the winding, endless, directionless path, I could see that forest church. I walked, chasing close behind him. After what seemed like forever, we finally reached the church gate. On the left side, a crepe myrtle stood in bloom. The red flowers fell and scattered like tiny bombs. He approached the front door and entered. I quickly followed after him.",
+                "",
+                "I found myself on a beach, disoriented and eyes bleary. I had the feeling that I was thinking about something important. On the surface of the sea, illuminated by the moonlight, red crape myrtle flowers floated gently on the water.",
+                "",
+                "That's right, I remembered, I'm supposed to make a doll. It should be a reasonable size, and made of a material becoming of its build.",
+                "",
+                "I need to make a work with the right shape.",
+                "",
+                "Packing the wet sand together, I began to create a human figure, sculpting it with my two own hands. I hardened the body. I molded the arms. I attached the legs.",
+                "",
+                "But if the sand lacks durability, it will collapse from the place where it was made. No matter how fast I feel I need to make it. The irritation made me clench the sand in my fingers tightly. I'm always making a doll with his face.",
+                "",
+                "Always, always.",
+                "",
+                "It was with that thought that from somewhere deep in my mind, I realized suddenly that I was dreaming. At that moment, I knew what would happen next.",
+                "",
+                "When I raised my face, I found myself in a cafe terrace, within the sound of dripping rain."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I return from Fårö Island.\nI eat at a restaurant close to the docks.\nAs usual, there’s no taste to anything."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I return from F\u00e5r\u00f6 Island.",
+                "I eat at a restaurant close to the docks.",
+                "As usual, there\u2019s no taste to anything."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I remember that day, when Amy left me behind. I remember my feelings from back then, too. \n\nSearching for him, sobbing, the size of the hole that opened up in my head, the futility of it all - and,  hidden below the seizing pain that felt like it was tearing out my heart, another feeling. Just a little bit, I felt relieved. I had already known, deep down - about the illness he was hiding, and about how little time he had left. \n\nI was able to escape that reality, through his kindness. I was running away from the moment it would end, the moment when he would suddenly disappear.\n\nI'm sure that I haven't moved forward from back then - from that day when he disappeared from town. Even the thought that he should've just taken me with him - it's still there. But hidden deep inside me, there's fear. There's the real, ugly person that I had averted my eyes from. He must have known that about me. That I, the coward, was at fault for everything.   \n\nI haven't changed at all. All I do is cling to what he left behind. This heart that's given up walking on its own is filled with an emptiness that just keeps expanding. I can't escape the grotto - just like that giant salamander, I'm completely stuck in place. \n\nI haven't changed a thing. All I do is hold the diary that I stole from his room close to me. From that day forward, my eyes have always seen a dream."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I remember that day, when Amy left me behind. I remember my feelings from back then, too.",
+                "",
+                "Searching for him, sobbing, the size of the hole that opened up in my head, the futility of it all - and,  hidden below the seizing pain that felt like it was tearing out my heart, another feeling. Just a little bit, I felt relieved. I had already known, deep down - about the illness he was hiding, and about how little time he had left.",
+                "",
+                "I was able to escape that reality, through his kindness. I was running away from the moment it would end, the moment when he would suddenly disappear.",
+                "",
+                "I'm sure that I haven't moved forward from back then - from that day when he disappeared from town. Even the thought that he should've just taken me with him - it's still there. But hidden deep inside me, there's fear. There's the real, ugly person that I had averted my eyes from. He must have known that about me. That I, the coward, was at fault for everything.",
+                "",
+                "I haven't changed at all. All I do is cling to what he left behind. This heart that's given up walking on its own is filled with an emptiness that just keeps expanding. I can't escape the grotto - just like that giant salamander, I'm completely stuck in place.",
+                "",
+                "I haven't changed a thing. All I do is hold the diary that I stole from his room close to me. From that day forward, my eyes have always seen a dream."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "When I returned to Visby, it was overflowing with people. When I asked a passerby, they said it was almost time for Medeltidsveckan, a celebration called Medieval Week. \n\nIn respect of tradition, the people and their town return to the old days in the form of a festival. There was a woman in the hood of a certain historical group of people, a young man in a knight costume, people dressed as medieval pirates, and even some as vikings. Wherever you looked, you could see food stands lining the streets, and even the most narrow alleys filled with crowds of people. The city was vibrant, painted with the appearance of a festival. \n\nFrom within the bustling crowds, I heard the sound of music. It was a folkish sound - the timbre of a flute, a double bass, and a fiddle-like stringed instrument. It was like the Irish scale, but a completely different melody. When I followed the sound and entered the music hall it was coming from, I could see people, hands interlocked, dancing in sync with the band playing in triple time. \n\nAbsentmindedly, I wondered if he had seen this festival as well. "
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "When I returned to Visby, it was overflowing with people. When I asked a passerby, they said it was almost time for Medeltidsveckan, a celebration called Medieval Week.",
+                "",
+                "In respect of tradition, the people and their town return to the old days in the form of a festival. There was a woman in the hood of a certain historical group of people, a young man in a knight costume, people dressed as medieval pirates, and even some as vikings. Wherever you looked, you could see food stands lining the streets, and even the most narrow alleys filled with crowds of people. The city was vibrant, painted with the appearance of a festival.",
+                "",
+                "From within the bustling crowds, I heard the sound of music. It was a folkish sound - the timbre of a flute, a double bass, and a fiddle-like stringed instrument. It was like the Irish scale, but a completely different melody. When I followed the sound and entered the music hall it was coming from, I could see people, hands interlocked, dancing in sync with the band playing in triple time.",
+                "",
+                "Absentmindedly, I wondered if he had seen this festival as well."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Almedalen Park.\n\nA small bird passes through my line of sight. I start to wonder if sparrows live in this country as well. I sit on a bench surrounded by garden shrubs, pondering to myself. I suddenly realize why I haven't been able to write anything, why I haven't moved my writing brush. I have nothing to write.\n\nNothing comes to mind."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Almedalen Park.",
+                "",
+                "A small bird passes through my line of sight. I start to wonder if sparrows live in this country as well. I sit on a bench surrounded by garden shrubs, pondering to myself. I suddenly realize why I haven't been able to write anything, why I haven't moved my writing brush. I have nothing to write.",
+                "",
+                "Nothing comes to mind."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "The rain falls. I take cover in the watchtower built into the circular wall. If you take the wooden stairs up a couple floors, you can see that odd bench, the one imitating the wall, far down below. My memories with him are all used up. I can’t write anything."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "The rain falls. I take cover in the watchtower built into the circular wall. If you take the wooden stairs up a couple floors, you can see that odd bench, the one imitating the wall, far down below. My memories with him are all used up. I can\u2019t write anything."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I can't write anything."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I can't write anything."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "In the hostel kitchen, I cut a slice of bread and eat it. He was really bad at cooking. It might even be right to say that he was just lazy about doing chores. Often, together, we'd cut into bread messily - just like this."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "In the hostel kitchen, I cut a slice of bread and eat it. He was really bad at cooking. It might even be right to say that he was just lazy about doing chores. Often, together, we'd cut into bread messily - just like this."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Nothing comes to mind."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Nothing comes to mind."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "<s>Nothi</s>    <s>Today</s>\nI can't write anything. "
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "<s>Nothi</s>    <s>Today</s>",
+                "I can't write anything."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I can't write."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I can't write."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I left town, and headed north. On an unpaved road, I walked alone. There was a blank space inside of my head, the color as if painted on thickly with the purest white paint. It was the same color of those margins that he always loved.\n\nI kept finding myself tripping, feet getting stuck against the ground. The shoes I had worn all throughout my journey were worn out, falling apart. I passed through a rural town, passed by sparse-looking private houses, and headed towards that forest church. Noon passed, bearing down on me with dry rays of sunlight. All that circled through my mind were those words, questioning the value of a person’s life. In a split second, my foot caught something hard, and I began to tumble down towards the hard earth below me. Summer was nearing its end, and when I opened my eyes, the pale blue filled my field of vision.\n\nIt was at that moment that it happened.\n\nI lifted my face, dazed, and in between the crevices of trees - I was sure that I saw his shadow. \n\nThe pain in my feet disappeared. I tore through the thicket of forest cover, and ran as if the animal trail were seizing my legs. It didn't feel hard to breathe. I couldn't even hear the sound of my heart beating. But, nearby, I could hear the sea. The gentle sound of small waves - a sound that he loved."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I left town, and headed north. On an unpaved road, I walked alone. There was a blank space inside of my head, the color as if painted on thickly with the purest white paint. It was the same color of those margins that he always loved.",
+                "",
+                "I kept finding myself tripping, feet getting stuck against the ground. The shoes I had worn all throughout my journey were worn out, falling apart. I passed through a rural town, passed by sparse-looking private houses, and headed towards that forest church. Noon passed, bearing down on me with dry rays of sunlight. All that circled through my mind were those words, questioning the value of a person\u2019s life. In a split second, my foot caught something hard, and I began to tumble down towards the hard earth below me. Summer was nearing its end, and when I opened my eyes, the pale blue filled my field of vision.",
+                "",
+                "It was at that moment that it happened.",
+                "",
+                "I lifted my face, dazed, and in between the crevices of trees - I was sure that I saw his shadow.",
+                "",
+                "The pain in my feet disappeared. I tore through the thicket of forest cover, and ran as if the animal trail were seizing my legs. It didn't feel hard to breathe. I couldn't even hear the sound of my heart beating. But, nearby, I could hear the sea. The gentle sound of small waves - a sound that he loved.",
+                "",
+                "Far on the other side, the shadow wavered, as if beckoning. After getting my legs tangled in the brush several times, I could finally see the forest's end. I tumbled through the final parts of the thicket, and escaped.",
+                "",
+                "A wide coastline and its sandy shores spread out before me. I lifted my face. From the center of that unpopular beach, a thoroughbred, beautiful stag stared at me.",
+                "",
+                "Alongside the beach, I could see a single pier stretching into the water. The stag took a backwards glance at me as it began to walk away, and dazed, I let myself follow it.",
+                "",
+                "\"A novel that never ends is boring. A story that drags on forever with a sluggish momentum can never be beautiful.\"",
+                "",
+                "\"The only value of a life is in the way it ends.\"",
+                "",
+                "The thing that supported me until the very end were those words that he gave to me. At the edge of the pier, I looked down. The waves of the Baltic Sea were a deep blue, and seemed to continue down forever - as if filled with all the colors of a gentle night. I took off my shoes. I thought back on the last few months of my journey - did he feel like this, too?",
+                "",
+                "With that thought, I jumped into the water.",
+                "",
+                "My body sunk, easier than I thought it would. A clump of bubbles clung to my face. At far beyond 0 meters sea level, my field of vision changed, blurry and indistinct. The sunrays slipped through the crevices of the pier and shined into the sea like moonlight. I had the thought that they were pretty.",
+                "",
+                "Amy. His words traveled through my mind. From within my blurred vision of the seafloor, I saw something shine, buried within the mud. I reached out my hand, and scooped it up. I knew what it was.",
+                "",
+                "I knew that fountain pen."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Far on the other side, the shadow wavered, as if beckoning. After getting my legs tangled in the brush several times, I could finally see the forest's end. I tumbled through the final parts of the thicket, and escaped. \n\nA wide coastline and its sandy shores spread out before me. I lifted my face. From the center of that unpopular beach, a thoroughbred, beautiful stag stared at me. \n\nAlongside the beach, I could see a single pier stretching into the water. The stag took a backwards glance at me as it began to walk away, and dazed, I let myself follow it. \n\n\"A novel that never ends is boring. A story that drags on forever with a sluggish momentum can never be beautiful.\"\n\n\"The only value of a life is in the way it ends.\"\n\nThe thing that supported me until the very end were those words that he gave to me. At the edge of the pier, I looked down. The waves of the Baltic Sea were a deep blue, and seemed to continue down forever - as if filled with all the colors of a gentle night. I took off my shoes. I thought back on the last few months of my journey - did he feel like this, too? \n\nWith that thought, I jumped into the water. \n\nMy body sunk, easier than I thought it would. A clump of bubbles clung to my face. At far beyond 0 meters sea level, my field of vision changed, blurry and indistinct. The sunrays slipped through the crevices of the pier and shined into the sea like moonlight. I had the thought that they were pretty.\n\nAmy. His words traveled through my mind. From within my blurred vision of the seafloor, I saw something shine, buried within the mud. I reached out my hand, and scooped it up. I knew what it was.\n\nI knew that fountain pen."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "On the beach near the pier, there was an ink bottle rolling across the sand. A little ways away, I found his bag beneath the shade of a rock shelter.",
+                "",
+                "Inside of the bag, there was a notebook. It was the one he always used - not the spare that I took from his room, but the one he always had with him. I had always journeyed to follow the letters that he left me. They were my only support. They were what kept me moving, as if they were the gasoline fueling me.",
+                "",
+                "He always carried his choice of fountain pen and ink along with him. I'm not very bright with a fountain pen, but I learned how to use it by copying him. For someone who used it the right way though, the ink could last forever. Even if he wrote more than he usually did, how did the ink run out so fast?",
+                "",
+                "",
+                "",
+                "He always wrote a draft before copying what he wrote into his notebook.",
+                "",
+                "",
+                "",
+                "If the letters he sent me were \u201cDrafts\u201d - then this notebook. This notebook was his real one. Right in front of me, damaged by the sea breeze. I opened the cover, and read what he left behind."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "On the beach near the pier, there was an ink bottle rolling across the sand. A little ways away, I found his bag beneath the shade of a rock shelter. \n\nInside of the bag, there was a notebook. It was the one he always used - not the spare that I took from his room, but the one he always had with him. I had always journeyed to follow the letters that he left me. They were my only support. They were what kept me moving, as if they were the gasoline fueling me.\n\nHe always carried his choice of fountain pen and ink along with him. I'm not very bright with a fountain pen, but I learned how to use it by copying him. For someone who used it the right way though, the ink could last forever. Even if he wrote more than he usually did, how did the ink run out so fast? \n\n\n\nHe always wrote a draft before copying what he wrote into his notebook. \n\n\n\nIf the letters he sent me were “Drafts” - then this notebook. This notebook was his real one. Right in front of me, damaged by the sea breeze. I opened the cover, and read what he left behind."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I want to be something. I want to be something other than myself. I want a me who others don't look down on, a me who won't lose to other people's malice. It hurts. I hate the me who never talks back, I hate the me that I am.",
+                "",
+                "Amy, I remember everything you said. I can't forget it. My everyday has changed since that day. I can write down every single word and phrase - I really can. I remember.",
+                "",
+                "\"In that case, you're Elma.\u201d",
+                "",
+                "Starting now, you're Elma. There's nothing hard about it. You're a crybaby, holding the you that won't give in to cowardly habits, good at songwriting - you're Elma. You can call me whatever you like. Only use the first letters of my name and call me Amy, that might be a nice choice. There was a poet who did the same, a long time ago.",
+                "",
+                "God is in your fingertips. Nobody else can see. It's a small God that only the two of us know. You don't know your value, and neither does anyone else - the people who make fun of you, your friends, your family, your grandmother. Even I don't know.",
+                "",
+                "Only that God knows you. Only the God of Art really sees you.",
+                "",
+                "Elma, what do you want to do? What do you truly want to find?",
+                "",
+                "",
+                "A m y, I..."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I want to be something. I want to be something other than myself. I want a me who others don't look down on, a me who won't lose to other people's malice. It hurts. I hate the me who never talks back, I hate the me that I am. \n\nAmy, I remember everything you said. I can't forget it. My everyday has changed since that day. I can write down every single word and phrase - I really can. I remember.\n\n\"In that case, you're Elma.”\n\nStarting now, you're Elma. There's nothing hard about it. You're a crybaby, holding the you that won't give in to cowardly habits, good at songwriting - you're Elma. You can call me whatever you like. Only use the first letters of my name and call me Amy, that might be a nice choice. There was a poet who did the same, a long time ago.   \n\nGod is in your fingertips. Nobody else can see. It's a small God that only the two of us know. You don't know your value, and neither does anyone else - the people who make fun of you, your friends, your family, your grandmother. Even I don't know.\n\nOnly that God knows you. Only the God of Art really sees you.\n\nElma, what do you want to do? What do you truly want to find?\n\n\nA m y, I..."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "In Amy's notebook, there are some places where the words can't be read - weathered by the sea breeze. For the most part, the contents haven't changed from the letters. It's just on the last few pages that things are different. There are several songs that weren't in the letters, inserted in between.",
+                "",
+                "A song about the sun after the rain. A song about sleeping in the winter, waiting for summer. A song calling himself a loser. The dates are all over the place, and what comes after is light, thinly penned - but always lined up, dignified.",
+                "",
+                "I turn the last page.",
+                "",
+                "Dated 8/31, undoubtedly right before his journey ended, written with the last of his ink. Crammed into the margins, a song titled \"Elma.\"",
+                "",
+                "It's my name, the one that he gave to me."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "10.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "In Amy's notebook, there are some places where the words can't be read - weathered by the sea breeze. For the most part, the contents haven't changed from the letters. It's just on the last few pages that things are different. There are several songs that weren't in the letters, inserted in between.\n\nA song about the sun after the rain. A song about sleeping in the winter, waiting for summer. A song calling himself a loser. The dates are all over the place, and what comes after is light, thinly penned - but always lined up, dignified. \n\nI turn the last page.\n\nDated 8/31, undoubtedly right before his journey ended, written with the last of his ink. Crammed into the margins, a song titled \"Elma.\"\n\nIt's my name, the one that he gave to me."
-        }
-    },
-    {
-        "type": "Text",
-        "bgm": "10.mp3",
-        "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Video",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
             "body": "https://www.youtube.com/watch?v=hvr6pY1ckkU"
         }
     },
@@ -787,39 +1159,63 @@
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "\"Do you know where the most beautiful music in this world comes from?\"\n\nI told him that I didn't know. He grabbed onto my head, and gently shook it. \n\n\n\"My head?\" I asked.\n\nHe nodded. \n\n\"All of the unparalleled music that both Bach and Beethoven wrote - it's all right there. Not just in yours, but in everyone's heads. The constraints of the word “possibility” can't hope to capture all of the music in the world.\"\n\nHis eyes had a depth to them, as if filled with all the colors of a gentle night.\n\n\"Right now, you're floating in a sea called the imagination.\"\n\nI imagine."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "\"Do you know where the most beautiful music in this world comes from?\"",
+                "",
+                "I told him that I didn't know. He grabbed onto my head, and gently shook it.",
+                "",
+                "",
+                "\"My head?\" I asked.",
+                "",
+                "He nodded.",
+                "",
+                "\"All of the unparalleled music that both Bach and Beethoven wrote - it's all right there. Not just in yours, but in everyone's heads. The constraints of the word \u201cpossibility\u201d can't hope to capture all of the music in the world.\"",
+                "",
+                "His eyes had a depth to them, as if filled with all the colors of a gentle night.",
+                "",
+                "\"Right now, you're floating in a sea called the imagination.\"",
+                "",
+                "I imagine.",
+                "",
+                "\"You might not be able to move freely, but you have arms that you can use to swim. When you look down, you can see the bottom of the sea, right there below you. This giant desert, made up of words, spreading out before your very eyes. You can see stones - all different sizes - mixed in among the grains of sand, rolling and hiding. That's where you start. Take those words, and learn how to craft a gem that you want out of them, Elma.\"",
+                "",
+                "I wanted to know that beauty, the place where God resides. The God that you taught me about, the one that lives only within people\u2019s work. I wanted to know the scenery that you saw.",
+                "",
+                "Why have I forgotten?",
+                "Why can't I just do it right - make it all come back to me?",
+                "With this head - what you taught me with those eyes of yours.",
+                "",
+                "Amy, why is it so,",
+                "Amy, I"
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "\"You might not be able to move freely, but you have arms that you can use to swim. When you look down, you can see the bottom of the sea, right there below you. This giant desert, made up of words, spreading out before your very eyes. You can see stones - all different sizes - mixed in among the grains of sand, rolling and hiding. That's where you start. Take those words, and learn how to craft a gem that you want out of them, Elma.\" \n\nI wanted to know that beauty, the place where God resides. The God that you taught me about, the one that lives only within people’s work. I wanted to know the scenery that you saw. \n\nWhy have I forgotten?\nWhy can't I just do it right - make it all come back to me?\nWith this head - what you taught me with those eyes of yours.\n\nAmy, why is it so,\nAmy, I"
-        }
-    },
-    {
-        "type": "Text",
-        "bgm": "13.mp3",
-        "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Video",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
             "body": "https://www.youtube.com/watch?v=j83OVgv6woA"
         }
     },
@@ -827,151 +1223,204 @@
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "blank page"
+            "title": "",
+            "body": [
+                "blank page"
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I return to the inn. I write a song down in the margins of my notebook - the same way he did back in the old days. The title is \"Rain and Cappuccino.\""
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I return to the inn. I write a song down in the margins of my notebook - the same way he did back in the old days. The title is \"Rain and Cappuccino.\""
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Amy was always laughing gently. Whenever I went to his room to play the guitar, he would let me hear the songs he wrote. Amy's songs always had this nostalgic scent to them. I could see this deep color, like the blue of a late summer sky. But somewhere in there, there was something almost exclusionary, obstinate. I caught a glimpse at this self-confidence that wrapped around him like a shell. It made me a little bit happy, seeing that."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Amy was always laughing gently. Whenever I went to his room to play the guitar, he would let me hear the songs he wrote. Amy's songs always had this nostalgic scent to them. I could see this deep color, like the blue of a late summer sky. But somewhere in there, there was something almost exclusionary, obstinate. I caught a glimpse at this self-confidence that wrapped around him like a shell. It made me a little bit happy, seeing that."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I climb the stairs headed east from Santa Maria Cathedral. I sit on a bench on top of a hill. I write a song. The title is \"Only Sorrow.\""
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I climb the stairs headed east from Santa Maria Cathedral. I sit on a bench on top of a hill. I write a song. The title is \"Only Sorrow.\""
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Amy liked the word \"pointless (muda).\" When I played the piano and mischievously went for a movement that wasn't anything like music, he would show me the same smile he would show me every time. That's a lovable kind of pointlessness, Elma. It's a very primitive type of music making. Those old jazz numbers, rock and roll - they were both born from that same kind of pointless. "
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Amy liked the word \"pointless (muda).\" When I played the piano and mischievously went for a movement that wasn't anything like music, he would show me the same smile he would show me every time. That's a lovable kind of pointlessness, Elma. It's a very primitive type of music making. Those old jazz numbers, rock and roll - they were both born from that same kind of pointless."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I write a song. The title is \"A Hole Opened Up in My Heart.\""
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I write a song. The title is \"A Hole Opened Up in My Heart.\""
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "It's important to read books. The source of creation is always within words. Elma, books are made of them. Right now, even the book you’re holding in your hands might have the God of Art reading it."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "It's important to read books. The source of creation is always within words. Elma, books are made of them. Right now, even the book you\u2019re holding in your hands might have the God of Art reading it."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Words keep overflowing. Musical notes keep dancing around in my head. Memories keep circling. My writing alone isn't enough. On the blank pages of the notebook, even in-between past entries, I keep writing about my memories with him, one after the next after the next. Why had I forgotten them? Amy, why did I, so many- "
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Words keep overflowing. Musical notes keep dancing around in my head. Memories keep circling. My writing alone isn't enough. On the blank pages of the notebook, even in-between past entries, I keep writing about my memories with him, one after the next after the next. Why had I forgotten them? Amy, why did I, so many-"
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "It was August. Fireworks were set off in the town, bursting in a sky still dotted with red. It was an evening sky, without a hint of wind. Amy stopped strumming his guitar and opened the window to the veranda.\n\n\"Elma, there's fireworks,\" He said.\n\nI stopped writing my song, and stepped outside. Hidden between the tall buildings, the fireworks from the veranda were broken like semi-circles. Amy smiled gently."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "It was August. Fireworks were set off in the town, bursting in a sky still dotted with red. It was an evening sky, without a hint of wind. Amy stopped strumming his guitar and opened the window to the veranda.",
+                "",
+                "\"Elma, there's fireworks,\" He said.",
+                "",
+                "I stopped writing my song, and stepped outside. Hidden between the tall buildings, the fireworks from the veranda were broken like semi-circles. Amy smiled gently."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I headed to that beach again. While strolling down the sandy coastline, I spotted another old-looking pier. It was like a mirror of the pier that I had jumped off of, but slightly different. It was decayed, forgotten with time.His guitar case was there, weather-worn, lying down on the ground. There was an acoustic guitar inside it, and a piece of paper that I could recognize as a song. It was titled \"Nautilus.\""
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I headed to that beach again. While strolling down the sandy coastline, I spotted another old-looking pier. It was like a mirror of the pier that I had jumped off of, but slightly different. It was decayed, forgotten with time.His guitar case was there, weather-worn, lying down on the ground. There was an acoustic guitar inside it, and a piece of paper that I could recognize as a song. It was titled \"Nautilus.\""
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I love your songs and your piano-playing, Elma. Come on now, don't make that face. One day, you'll grow up. You'll write an amazing work and become a musician. I don't believe in talent, but I do believe in music. No matter what anyone says, you just have to ignore it. No matter how clumsy it is, no matter how hard it is to parse, there's value in it that only the God of Art can understand.\n\nI taught you that, didn't I? The most important thing isn't what other people think.\n\nIt’s music, Elma."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I love your songs and your piano-playing, Elma. Come on now, don't make that face. One day, you'll grow up. You'll write an amazing work and become a musician. I don't believe in talent, but I do believe in music. No matter what anyone says, you just have to ignore it. No matter how clumsy it is, no matter how hard it is to parse, there's value in it that only the God of Art can understand.",
+                "",
+                "I taught you that, didn't I? The most important thing isn't what other people think.",
+                "",
+                "It\u2019s music, Elma."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Elma, become a kind person."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Elma, become a kind person."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "There is no moonlight inside of me. I don't understand the light that you saw. It's just, whenever I write something that imitates you, a blue sky floats in front of me. On the other side of the song, I can see your face."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "There is no moonlight inside of me. I don't understand the light that you saw. It's just, whenever I write something that imitates you, a blue sky floats in front of me. On the other side of the song, I can see your face."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Until now, there was nothing in me that wanted to affirm art. Before I followed you, before I set off on this journey, I had no reason to write songs. Beneath the facade, there was only ego. It was all for myself. That's really all it was, Amy. "
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Until now, there was nothing in me that wanted to affirm art. Before I followed you, before I set off on this journey, I had no reason to write songs. Beneath the facade, there was only ego. It was all for myself. That's really all it was, Amy."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I finally understand."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I finally understand."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "Amy, I've been thinking lately. First, I think I want to write music for the songs you left behind. It's the first time in my life - it's the first time that I've ever wanted to do something this much. Before now, I've only been imitating you - writing songs that imitate yours, copying your way of life. Music was the same, too. I never had any real interest in it. I just wanted to know the world you saw - the perspective of a person who enjoyed music as much as you did, the view you saw with those eyes of yours. \n\nEven still, I want to tell the story of you, the you who gave up on music — if I don't inherit his ideas, then nobody will be rewarded. I have to discover the light that he saw within my lifetime. Even if it's in a place that nobody else will ever see, even if it's clumsy, even if it's in a form that nobody will ever assign any value to. It's a work made for my sake, and for his. And that's okay. \n\nIt will be a long, long journey to figure out the moonlight that he saw within me."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "Amy, I've been thinking lately. First, I think I want to write music for the songs you left behind. It's the first time in my life - it's the first time that I've ever wanted to do something this much. Before now, I've only been imitating you - writing songs that imitate yours, copying your way of life. Music was the same, too. I never had any real interest in it. I just wanted to know the world you saw - the perspective of a person who enjoyed music as much as you did, the view you saw with those eyes of yours.",
+                "",
+                "Even still, I want to tell the story of you, the you who gave up on music \u2014 if I don't inherit his ideas, then nobody will be rewarded. I have to discover the light that he saw within my lifetime. Even if it's in a place that nobody else will ever see, even if it's clumsy, even if it's in a form that nobody will ever assign any value to. It's a work made for my sake, and for his. And that's okay.",
+                "",
+                "It will be a long, long journey to figure out the moonlight that he saw within me."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I think I'll stop writing in this diary soon. A story that never ends is boring. His words. I want to be able to end the story that I wrote, if nothing else."
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I think I'll stop writing in this diary soon. A story that never ends is boring. His words. I want to be able to end the story that I wrote, if nothing else."
+            ]
         }
     },
     {
         "type": "Text",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
-            "body": "I board a ship at the harbor. When I step onto the deck and look back to the port, I see the old woman I last saw at that church again, standing there. She's with her sons, or maybe even her grandsons - surrounded by them, laughing. She notices me, and I realize that she’s shouting something from far away. Even if she were closer, I know I wouldn't understand the language, so I just nod instead.\n\nShe points behind me and laughs, supported by the man beside her.\n\nNow that I've made it on the deck, I can see beyond the bow of the ship. What he called an imitation night paints the sky - the colors of evening blended together with the night, \n<span style=\"text-align: right;\">burning the horizon a deep red.</span>"
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
+            "body": [
+                "I board a ship at the harbor. When I step onto the deck and look back to the port, I see the old woman I last saw at that church again, standing there. She's with her sons, or maybe even her grandsons - surrounded by them, laughing. She notices me, and I realize that she\u2019s shouting something from far away. Even if she were closer, I know I wouldn't understand the language, so I just nod instead.",
+                "",
+                "She points behind me and laughs, supported by the man beside her.",
+                "",
+                "Now that I've made it on the deck, I can see beyond the bow of the ship. What he called an imitation night paints the sky - the colors of evening blended together with the night,",
+                "<span style=\"text-align: right;\">burning the horizon a deep red.</span>"
+            ]
         }
     },
     {
         "type": "Cover",
         "bgm": "13.mp3",
         "content": {
-            "title":"No translations available please contact @LetRickyCode on Twitter if you want to contribute",
+            "title": "No translations available pls contact @LetRickyCode or rtendinitis",
             "body": "Thank you /r/yorushika and community for providing translations"
         }
     }
