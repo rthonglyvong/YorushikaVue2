@@ -137,7 +137,13 @@ export default {
       return videoIdMatch ? videoIdMatch[1] : null;
     },
     convertNewlines(text) {
-      return text.replace(/\n/g, '<br>');
+      // Handle array or string content
+      if (Array.isArray(text)) {
+        text = text.join('\n'); // Join array with newlines
+      } else if (typeof text !== 'string') {
+        text = ''; // Default to empty string for invalid values
+      }
+      return text.replace(/\n/g, '<br>'); // Convert newlines to <br> tags
     },
     // Preload all BGM files
     preloadBgm() {
@@ -509,6 +515,7 @@ button {
   height: 100%;
   width: 100%;
   text-align: center;
+  padding: clamp(1rem, 3vw, 2.5rem); /* Add responsive margin */
 }
 [id^="video-"] {
   height: 60%;
@@ -551,7 +558,7 @@ select {
 @media (max-width: 768px) {
   .page {
     font-family: 'Waiting for the Sunrise', serif;
-    font-size: clamp(15px, 5vw, 48px);
+    font-size: clamp(15px, 3vw, 48px);
   }
 }
 
